@@ -1,6 +1,26 @@
 
-body{
-	background-color: #B47AEA;
+body{	font-size:3em;
+	background-color: #A4036F;
+	background:-webkit-linear-gradient( #A4036F, #048BA8, #16DB93, #F0EC57, #F29E4C);
+
 }
 
 
+.navbar {
+	font-size:15px;
+}
+.text{
+	padding-left:20%;
+	
+}
+a{
+	color:white;
+	
+}
+a:hover{color:black;
+}
+h1{color:white;
+}
+.text{
+	color:white;
+}
